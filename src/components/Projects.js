@@ -50,7 +50,9 @@ export const Projects = () => {
                 <Row>
                     <Col>
                         <h2>Projects</h2>
-                        <p>Voici mes différent projets que j'ai réalisé lors de mon parcours scolaire mais également lors de mes projets personnes certains sont en cours donc le rendu finale n'est pas encore accessible.</p>
+                        <p>Voici mes différents projets que j'ai réalisés lors de mon parcours scolaire, mais également
+                            lors de mes projets personnels. Certains sont en cours, donc le rendu final n'est pas encore
+                            accessible.</p>
                         <Tab.Container defaultActiveKey="first" id={"projects-tabs"}>
                             <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                                 <Nav.Item>
